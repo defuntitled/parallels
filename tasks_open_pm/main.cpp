@@ -146,9 +146,9 @@ void task_4()
         std::cout << "size " << rows_A << "x" << cols_A << " time " << duration.count() << " sec." << "\n";
     }
 
-    // size 10x10 time 0.00644378 sec.
-    // size 100x100 time 0.00244767 sec.
-    // size 1000x1000 time 1.48815 sec.
+    // size 10x10 time      0.00644378 sec.
+    // size 100x100 time    0.00244767 sec.
+    // size 1000x1000 time  1.48815 sec.
 }
 
 int main()
